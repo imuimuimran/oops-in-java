@@ -3,3 +3,6 @@ Abstraction, encapsulation, polymorphism, and inheritance are the four main theo
 
 ### OOP's class and object
 <p>=> In this program multiple class is used in oops in java.</p>
+
+### OOP's class and object with constructor
+<p>=> In this program class is used in oops in java with constructor method.</p>
